@@ -16,9 +16,9 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: 阿朗的网站状态检测
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: none
+  name: 程序猿阿朗的网站状态检测
+  introTitle: "使用 GitHub 构建的开源网站监控方案 —— 实时掌握服务状态"
+  introMessage: 欢迎来到程序猿阿朗的 Upptime 状态中心。在这里，你可以随时查看我们各项服务的运行状况与可用性历史记录。
   navbar:
     - title: Status
       href: /
