@@ -40,17 +40,19 @@
     "url": "https://debug.group",
     "icon": "https://icons.duckduckgo.com/ip3/debug.group.ico",
     "slug": "debug-group",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "95.60%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.90%",
     "time": 1365,
-    "timeDay": 1336,
-    "timeWeek": 1236,
-    "timeMonth": 1385,
+    "timeDay": 1341,
+    "timeWeek": 1250,
+    "timeMonth": 1384,
     "timeYear": 1365,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-19": 63
+    }
   }
 ]
